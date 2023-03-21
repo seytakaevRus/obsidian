@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "2e7027d30a85c7b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dad929bf4b1f990c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edc5da1cdf6f4e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue/Директивы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b374639494bd33f",
+    "type": "split",
+    "children": [
+      {
+        "id": "73f89b867f7f5486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d0cd92fa97b7e30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51aa81d9112fb6af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ">",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "662eaa8a9647c0a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 425.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "21a12067d6be4146",
+    "type": "split",
+    "children": [
+      {
+        "id": "504dd351ff7c2b62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c9c425c2ad88631",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vue/Директивы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69065c5f5ced90b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vue/Директивы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36f804ebe79e8157",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "91e4707762de2561",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vue/Директивы.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "command-palette:Открыть палитру команд": false,
+      "templates:Вставить шаблон": false
+    }
+  },
+  "active": "edc5da1cdf6f4e92",
+  "lastOpenFiles": [
+    "Storage/rgbrtbrtb",
+    "Storage/Без названия",
+    "Storage/AAAA.md",
+    "Storage/Без названия.md",
+    "Storage",
+    "Без названия.canvas",
+    "Vue/Ref.md",
+    "Vue/Директивы.md",
+    "Vue/Обработка событий.md",
+    "Vue/Атрибут key.md",
+    "Ресурсы/Pasted image 20230227180503.png",
+    "Ресурсы/Pasted image 20230227180450.png",
+    "Ресурсы/Pasted image 20230227175856.png",
+    "Ресурсы/Pasted image 20230227175831.png",
+    "Ресурсы/Pasted image 20230227175815.png",
+    "Ресурсы/Pasted image 20230227174932.png",
+    "Vue/Индекс.md",
+    "Vue/Вступление.md",
+    "Vue/Привязка классов и стилей.md",
+    "Vue/Создание приложения.md",
+    "Без названия.md",
+    "Vue/Вычисляемые свойства.md",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "Основы использования markdown.md",
+    "Vue/Интерполяция.md",
+    "Ресурсы/Pasted image 20230226151504.png",
+    "Web Security/Open Redirect.md",
+    "Web Security/HTTP-методы.md",
+    "Web Security/Google Dorks.md",
+    "Web Security/Что происходит, когда вы заходите на веб-сайт.md",
+    "Web Security/Теория.md",
+    "Web Security/Сбор информации о сайте.md",
+    "Web Security/Приготовления.md",
+    "Web Security/Индекс.md",
+    "Ресурсы/Шаблоны/Шаблон.md",
+    "Vue/Подготовка.md",
+    "Ресурсы/Pasted image 20230219202834.png",
+    "Ресурсы/Pasted image 20230219194131.png",
+    "Ресурсы/Pasted image 20230219191042.png"
+  ]
+}
